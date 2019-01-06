@@ -88,13 +88,13 @@ progress{
     background: darkolivegreen;
 }
 progress::-webkit-progress-bar{
-background: #efefef;
+background: #efefefp;
 }
 progress::-webkit-progress-value{
-    background: #efefef;
+    background: hsl(0, 70%, 36%);
 }
 pre::-moz-progress-bar{
-    color: lightseagreen
+    color: lightseagreen;
     
 }
 iframe, audio{
